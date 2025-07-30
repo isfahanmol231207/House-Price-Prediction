@@ -94,6 +94,6 @@ This project predicts whether a person is at **risk of heart disease** using the
 ---
 
 ## Results are 
-![Linear Regression](file-9rXyCVT5fEN8j3SKkvhWKL)
-![Gradient Boosting ](file-9rXyCVT5fEN8j3SKkvhWKL)
+![Linear Regression](linear-regression.png)
+![Gradient Boosting ](gradient-boosting.png)
 
